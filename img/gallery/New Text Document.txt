@@ -1,0 +1,61 @@
+<section id="gallery" class="gallery">
+  <div class="container">
+    <div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-8 col-10 text-center">
+      <span>Memori Kisah Kami</span>
+      <h2>Galeri Foto</h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur, delectus.</p>
+    </div>
+  </div>
+
+  <div class="row row-cols-lg-4 row-cols-md-3 row-cols-sm-2 row-cols-1 justify-content-center">
+  <div class="col mt-3">
+    <a href="img/gallery/1.png" data-toggle="lightbox" 
+    data-caption="Rian & Jennie 1"
+    data-gallery="mygallery">
+      <img src="img/gallery/thumbnail/1.png" alt="Rian & Jennie 1" 
+      class="img-fluid w-100 rounded">
+    </a>
+  </div>
+  <div class="col mt-3">
+    <a href="img/gallery/2.png" data-toggle="lightbox" 
+    data-caption="Rian & Jennie 2"
+    data-gallery="mygallery">
+      <img src="img/gallery/thumbnail/2.png" alt="Rian & Jennie 2" 
+      class="img-fluid w-100 rounded">
+    </a>
+  </div>
+  <div class="col mt-3">
+    <a href="https://picsum.photos/id/301/1200/768" data-toggle="lightbox"
+     data-caption="Rian & Jennie 3"
+    data-gallery="mygallery">
+      <img src="https://picsum.photos/id/301/300/400" alt="Rian & Jennie 3" 
+      class="img-fluid w-100 rounded">
+    </a>
+  </div>
+  <div class="col mt-3">
+    <a href="https://picsum.photos/id/302/1200/768"data-toggle="lightbox"
+     data-caption="Rian & Jennie 4"
+    data-gallery="mygallery">
+      <img src="https://picsum.photos/id/302/300/400" alt="Rian & Jennie 4"
+       class="img-fluid w-100 rounded">
+    </a>
+  </div>
+  <div class="col mt-3">
+    <a href="https://picsum.photos/id/304/1200/768" data-toggle="lightbox" 
+    data-caption="Rian & Jennie 5"
+    data-gallery="mygallery">
+      <img src="https://picsum.photos/id/304/300/400" alt="Rian & Jennie 5" 
+      class="img-fluid w-100 rounded">
+    </a>
+  </div>
+   <div class="col mt-3">
+    <a href="https://picsum.photos/id/305/1200/768" data-toggle="lightbox"
+     data-caption="Rian & Jennie 6"
+    data-gallery="mygallery">
+      <img src="https://picsum.photos/id/305/300/400" alt="Rian & Jennie 6" 
+      class="img-fluid w-100 rounded">
+    </a>
+  </div>
+  </div>
